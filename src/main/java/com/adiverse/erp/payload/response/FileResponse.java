@@ -1,0 +1,42 @@
+package com.adiverse.erp.payload.response;
+
+public class FileResponse
+{
+	private String name;
+	  private String url;
+	  private String type;
+//	  private long size;
+
+	
+
+	  public String getName() {
+	    return name;
+	  }
+
+	  public FileResponse(String name, String url, String type) {
+	this.name = name;
+	this.url = url;
+	this.type = type;
+}
+
+	public void setName(String name) {
+	    this.name = name;
+	  }
+
+	  public String getUrl() {
+	    return url;
+	  }
+
+	  public void setUrl(String url) {
+	    this.url = url;
+	  }
+
+	  public String getType() {
+	    return type;
+	  }
+
+	  public void setType(String type) {
+	    this.type = type;
+	  }
+
+}
