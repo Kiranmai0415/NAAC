@@ -1,0 +1,92 @@
+.main-container {
+  background-color: white;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #02334d;
+  border-radius: 10px;
+  padding: 30px;
+  font-weight: 600;
+}
+.heading {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  font-size: 24px;
+}
+.eachTable-container {
+  display: flex;
+  flex-direction: column;
+}
+label {
+  color: black;
+  font-weight: bold;
+}
+table,
+th,
+td {
+  border: 2px solid #9db4bf;
+}
+th {
+  color: black;
+  font-size: 15px;
+}
+
+.BI-table1-headings {
+  width: 30%;
+}
+.Gender {
+  border-width: 0px;
+}
+input {
+  width: 100%;
+}
+.c11x-button-container {
+  display: flex;
+  justify-content: flex-end;
+}
+.c11x-button-style {
+  background-color: #02334d;
+  color: #cce1eb;
+  font-size: 15px;
+  border-radius: 5px;
+  margin-right: 5%;
+}
+.c11-fileButtons-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-right: 10%;
+}
+.c11-viewFileButton-style {
+  color: black;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 5%;
+  background-color: white;
+  border-radius: 3px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.c11-removeFileButton-style {
+  color: black;
+  font-size: 12px;
+  padding: 5%;
+  font-weight: bold;
+  background-color: lightcoral;
+  border-radius: 3px;
+  margin-left: 3%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.c11-28-fileButtons-container {
+  justify-content: flex-start;
+}
+.c11-29-fileButtons-container {
+  justify-content: flex-start;
+}
+.c11-30-fileButtons-container {
+  justify-content: flex-start;
+}
+.c11-31-fileButtons-container {
+  justify-content: flex-start;
+}

@@ -1,0 +1,55 @@
+.main-container {
+  background-color: white;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #02334d;
+  border-radius: 10px;
+  padding: 30px;
+  font-weight: 600;
+}
+.heading {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  font-size: 24px;
+}
+.eachTable-container {
+  display: flex;
+  flex-direction: column;
+}
+label {
+  color: black;
+  font-weight: bold;
+}
+table,
+th,
+td {
+  border: 2px solid #9db4bf;
+}
+th {
+  color: black;
+  font-size: 15px;
+}
+
+.BI-table1-headings {
+  width: 30%;
+}
+.Gender {
+  border-width: 0px;
+}
+input {
+  width: 100%;
+}
+.c31x-button-container {
+  display: flex;
+  justify-content: flex-end;
+}
+.c31x-button-style {
+  background-color: #02334d;
+  color: #cce1eb;
+  font-size: 15px;
+  border-radius: 5px;
+  margin-right: 5%;
+}

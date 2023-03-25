@@ -1,0 +1,66 @@
+.accreditation-container2 {
+    width: 100%;
+    padding: 4%;   
+    border-radius: 10px;
+  }
+  .accreditation-heading-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #e4f1f7;
+    border-style: solid;
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+    border-color: #02334d;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 2%;
+  }
+  .accreditation-cx-assign-button-style {
+    background-color: #02334d;
+    color: #e4f1f7;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-right: 5%;
+    font-weight: bold;
+  }
+  .accreditation-button-container
+  {
+    display: flex;
+    flex-direction: row;
+    padding-right: 20px;
+  }
+  .accreditation-container1{
+    margin-left: 5%;
+    width: 89% !important;
+    overflow-y: auto;
+    border: 0 !important;
+  }
+  .accreditation-c1-heading-style{
+    padding-top: 1%;
+    padding-left: 1%;
+    
+  }
+  .accreditation-mainBox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: white;   
+    border:0 !important; 
+  }
+  .accreditation-button-container {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 10%;
+  }
+  .accreditation-button-style {
+  background-color: #02334d;
+  color: #cce1eb;
+  font-size: 15px;
+  border-radius: 5px;
+  margin-right: 5%;
+  }
+  

@@ -1,0 +1,47 @@
+.student-container2 {
+    width: 100%;
+    padding: 1%;   
+    border-radius: 10px;
+  }
+   .student-heading-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #e4f1f7;
+    border-style: solid;
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+    border-color: #02334d;
+    border-radius: 5px;
+    /* padding: 2px; */
+  
+  }
+
+  .student-c1-heading-style{
+    padding-top: 1%;
+    padding-left: 1%;
+    
+}
+
+.student-button-container
+{
+    display: flex;
+    flex-direction: row;
+    padding-right: 20px ;
+    
+}
+  
+ 
+.student-cx-assign-button-style {
+    background-color: #02334d !important;
+    color: #e4f1f7 !important;
+    font-size: 15px !important;
+    border-radius: 5px !important;
+    text-transform:capitalize !important;
+  }
+  
+ .container-adjestment{
+  margin-top: 5%;
+ }

@@ -1,0 +1,12 @@
+.c31x-button-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.c31x-button-style {
+  background-color: #02334d;
+  color: #cce1eb;
+  font-size: 15px;
+  border-radius: 5px;
+  margin-right: 5%;
+}

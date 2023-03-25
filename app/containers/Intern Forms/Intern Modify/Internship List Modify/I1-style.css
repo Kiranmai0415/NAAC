@@ -1,0 +1,91 @@
+.i1-main-conatiner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding:10%;
+  }
+  .i1-formHeading-container{
+    background-color: #fff;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #02334d;
+    border-width: 10px;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
+    padding: 1.5%;
+    width:80%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+  }
+  .i1-formHeading-style{
+    font-weight: normal;
+  
+  }
+  .i1-formDescription-style{
+    color: black;
+    font-weight: 400;
+  }
+  .i1-card-container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 3%;
+    padding: 1.5%;
+    width:80%;
+    height:50%;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  .i1-label-style{
+    color: black;
+    font-weight: 500;
+    padding-bottom: 2%;
+  }
+  .i1-radioHeading-style{
+    color: black;
+    font-size: 17px;
+    font-weight: 500;
+  }
+  .profile-input-head{
+    width: "50px";
+  }
+
+  .i1-span-style{
+      color: red;
+  }
+  .i1-input-style{
+    border-color: grey;
+    border-width: 1px;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;  
+    width: 30%; 
+  }
+  .i1-eachRadio-container{
+    padding: 1%;
+  }
+  .i1-radioInstruction-style{
+    color: black;
+    font-size: 14px;
+    font-weight: 500;
+  }
+  .i1-button-container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  .i1-button-style {
+    background-color: #02334d;
+    color: #e4f1f7;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-right: 5%;
+    height:40px;
+    width:120px;
+    margin-top:10%;
+    border-width: 0px;
+  }
+  
+  

@@ -1,0 +1,74 @@
+.Acadamics-main-container {
+    background-color: white;
+    margin: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #02334d;
+    border-radius: 10px;
+  }
+  .Acadamics-main-heading-style{
+    color: white;
+    background-color: #02334d;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    padding: 10px;
+  }
+  .Acadamics-eachTable-container{
+    display: flex;
+    flex-direction: column;
+    border-color: #cce1eb;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    padding: 3%;
+    margin: 2%;
+  }
+
+  .Acadamics-button-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+  }
+  .Acadamics-button-style {
+    background-color: #02334d;
+    color: #e4f1f7;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-right: 5%;
+    height:40px;
+    width:120px;
+    
+    border-width: 0px;
+  }
+
+
+  
+  .accreditation-cx-assign-button-style {
+    background-color: #02334d;
+    color: #e4f1f7;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-right: 5%;
+    font-weight: bold;
+  }
+  .accreditation-button-container
+  {
+    display: flex;
+    flex-direction: row;
+    padding-right: 20px;
+  }
+  
+  
+  .accreditation-button-container {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 10%;
+  }
+  .accreditation-button-style {
+  background-color: #02334d;
+  color: #cce1eb;
+  font-size: 15px;
+  border-radius: 5px;
+  margin-right: 5%;
+  }
+  

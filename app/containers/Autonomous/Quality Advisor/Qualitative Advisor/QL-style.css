@@ -1,0 +1,74 @@
+
+.main-container {
+    background-color: white;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #02334d;
+    border-radius: 10px;
+    overflow-x: scroll;
+    padding:20px;
+    height: 65vh;
+    position: fixed;
+    width: 96vw;
+    
+  }
+  .eachTable-container{
+    width: 150vw;
+    display: flex;
+    flex-direction: column;
+  }
+  label{
+    color:black;
+    font-weight: bold;
+  }
+  table,
+  th,
+  td {
+    border: 2px solid #9db4bf;
+    
+  }
+  td{
+    padding: 12px 12px 12px 12px ;
+    text-align: center;
+  }
+  th{
+    padding: 12px 12px 12px 12px ;
+    text-align: center;
+  }
+  
+  th{
+    color:black;
+    font-size: 15px;
+  }
+  
+  .BI-table1-headings{
+    width: 30%;
+  }
+  .Gender{
+    border-width: 0px;
+  }
+  input{
+    width:100%;
+  }
+  .ql-button-container {
+    display: flex;
+    justify-content: flex-end;
+  }
+  .ql-button-style {
+    background-color: #02334d;
+    color: #cce1eb;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-top: 10px;
+    /* margin-right: 5%; */
+    float:right;
+  }
+  .select{
+    background-color: transparent;
+    border-radius: 5px;
+    outline: none;
+  }
+  /* .ql-table {
+    position: fixed;
+    width: 96vw;
+  } */

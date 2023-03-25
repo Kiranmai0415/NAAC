@@ -1,0 +1,93 @@
+.navbar{
+    text-align: center;
+}
+.p1{
+    color:green;
+    font-weight: 400;
+    font-style: italic;
+}
+.p2{
+    color:navy;
+    font-weight: bold;
+}
+.p3{
+    color:red;
+    font-weight: bold;
+    font-style: oblique;
+}
+.p4{
+    color:green;
+    font-weight: bold;
+}
+.p5{
+    text-decoration: underline;
+}
+.feedback{
+    background-color: #ffffff;
+    height:200vh;
+    padding-top:60px;
+    width:95%;
+    border-radius: 8px;
+}
+.heading1{
+    font-size: 26px;
+    font-style: normal;
+}
+.head2{
+    text-align: center;
+    text-decoration: underline;
+    padding-bottom:40px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    padding:80px;
+    color:black;
+    font-weight:600;
+    padding-top: 20px;
+
+}
+.card{
+    padding-left: 80px;
+    padding:10px;
+   
+}
+.text1{
+    border-color: grey;
+    border-width: 1px;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;  
+    width: 40%; 
+  }
+  .card1{
+    padding-top: 20px;
+  }
+  .card2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 40px;
+    font-weight: bold;
+  }
+.fb-button-container{
+    text-align: center;
+    padding-top:50px;
+}
+.fb-button-style {
+    background-color: #02334d;
+    color: #e4f1f7;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-right: 5%;
+    height:40px;
+    width:120px;
+    margin-top:10%;
+    border-width: 0px;
+  }
+  .line{
+    border-color: black;
+    border-width:2px;
+    margin-right:40px;
+    margin-left: 40px;
+  }
